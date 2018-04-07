@@ -1,4 +1,4 @@
-<img src="img/logo.png" width="558" height="504">
+<img src="img/logo.jpg" width="558" height="504">
 
 # hack36mnnit.github.io [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
